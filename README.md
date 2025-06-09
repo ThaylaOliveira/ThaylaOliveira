@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou a Thayla</h1>
 <h3 align="center">Apaixonada por análise e visualização de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
+- 🌱 Atualmente estou estudando **Data Science**
 
-- 💬 Me pergunte sobre **Power BI, Excel e Python**
+- 💬 Me pergunte sobre **Power BI e Machine Learning**
 
 - 📫 Você me encontra através do email **thaylathais1@gmail.com**
 
