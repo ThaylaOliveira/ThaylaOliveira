@@ -36,9 +36,9 @@ Atualmente estudando Ciência de Dados.
  ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 
- <b> ⚡ Projetos Power BI</b>:
+ #### Projetos Power BI  📊:
 - [Projeto 1](https://github.com/ThaylaOliveira/customer-insights-powerbi): Dashboard em Power BI para avaliar o desempenho e padrões de comportamento dos clientes de uma empresa de vendas online.
 
- <b> ⚡ Projetos Machine Learning</b>:
+ #### Projetos Machine Learning 🎲:
 - [Projeto 1](https://github.com/ThaylaOliveira/house_boston_linear_regression): Modelo de regressão linear para estimar a taxa média de ocupação das casas pelos proprietários de Boston.
 - [Projeto 2](https://github.com/ThaylaOliveira/clients-cluster): Segmentação de Consumidores Para Campanhas Customizadas de Marketing
