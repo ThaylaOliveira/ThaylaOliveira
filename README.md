@@ -42,3 +42,14 @@ Atualmente estudando Ciência de Dados.
  #### Projetos Machine Learning 🎲:
 - [Projeto 1](https://github.com/ThaylaOliveira/house_boston_linear_regression): Modelo de regressão linear para estimar a taxa média de ocupação das casas pelos proprietários de Boston.
 - [Projeto 2](https://github.com/ThaylaOliveira/clients-cluster): Segmentação de Consumidores Para Campanhas Customizadas de Marketing
+
+
+<b> :chart_with_upwards_trend: Estatísticas</b>:
+
+<a href="https://github.com/ThaylaOliveira">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ThaylaOliveira&show_icons=true&theme=dark&include_commits=true"/>
+</a>
+
+<a href="https://github.com/ThaylaOliveira">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinnecristina&layout=compact&langs_count=8&theme=dark"/>
+</a>
