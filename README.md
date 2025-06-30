@@ -41,4 +41,4 @@ Atualmente estudando Ciência de Dados.
 
  <b> ⚡ Projetos Machine Learning</b>:
 - [Projeto 1](https://github.com/ThaylaOliveira/house_boston_linear_regression): Modelo de regressão linear para estimar a taxa média de ocupação das casas pelos proprietários de Boston.
-- [Projeto 1](https://github.com/ThaylaOliveira/clients-cluster): Segmentação de Consumidores Para Campanhas Customizadas de Marketing
+- [Projeto 2](https://github.com/ThaylaOliveira/clients-cluster): Segmentação de Consumidores Para Campanhas Customizadas de Marketing
