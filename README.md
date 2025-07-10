@@ -38,7 +38,7 @@ Atualmente estudando Ciência de Dados.
 
  #### Projetos de análise de dados  📊:
 - [Projeto 1](https://github.com/ThaylaOliveira/customer-insights-powerbi): Dashboard em Power BI para avaliar o desempenho e padrões de comportamento dos clientes de uma empresa de vendas online.
-- [Projeto 2](https://github.com/ThaylaOliveira/olist-data-exploration-sql): Olist SQL Analytics — BigQuery + Power BI
+- [Projeto 2](https://github.com/ThaylaOliveira/olist-data-exploration-sql): Olist SQL Analytics — BigQuery + Looker Studio
 - [Projeto 3](https://github.com/ThaylaOliveira/-planejamento-orcamentario-pessoal-bi-case): Planejamento Orçamentário de Pessoal
 
  #### Projetos de ciência de dados 🎲:
