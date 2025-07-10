@@ -30,12 +30,13 @@ Atualmente estudando Ciência de Dados 🎲.
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
  ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+ ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
 
   #### 🌱 Estou aprendendo:
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
  ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
+ ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?&style=plastic&logo=Google%20Cloud&logoColor=white)
  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
- ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 
 ---
@@ -59,5 +60,5 @@ Atualmente estudando Ciência de Dados 🎲.
 </a>
 
 <a href="https://github.com/ThaylaOliveira">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinnecristina&layout=compact&langs_count=8&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaylaOliveira&layout=compact&langs_count=8&theme=dark"/>
 </a>
