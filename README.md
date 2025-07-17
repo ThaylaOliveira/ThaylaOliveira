@@ -10,6 +10,18 @@ Atualmente estudando Ciência de Dados 🎲.
 
 ---
 
+ ## 📊 Projetos de análise de dados:
+- [Projeto 1](https://github.com/ThaylaOliveira/customer-insights-powerbi): Avaliação do desempenho e padrões de comportamento dos clientes de uma empresa de vendas online.
+- [Projeto 2](https://github.com/ThaylaOliveira/olist-data-exploration-sql): Análise exploratória de um ecomemerce utilizando SQL no Google BigQuery.
+- [Projeto 3](https://github.com/ThaylaOliveira/-planejamento-orcamentario-pessoal-bi-case): People Analytics - Planejamento Orçamentário de Pessoal e análise de custos.
+- [Projeto 4](https://github.com/ThaylaOliveira/azure-data-pipeline-project): Análise e Transformação de Dados com Azure Data Factory e Data Flow
+
+ ## 💻 Projetos de Machine Learning:
+- [Projeto 1](https://github.com/ThaylaOliveira/house_boston_linear_regression): Modelo de regressão linear para estimar a taxa média de ocupação das casas pelos proprietários de Boston.
+- [Projeto 2](https://github.com/ThaylaOliveira/clients-cluster): Segmentação de Consumidores Para Campanhas Customizadas de Marketing
+
+---
+
  ## 🚀 **Linguagens e Ferramentas:**
 
  #### 👩🏽‍💻 Uso diário:
@@ -38,18 +50,6 @@ Atualmente estudando Ciência de Dados 🎲.
  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?&style=plastic&logo=Google%20Cloud&logoColor=white)
  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-
----
-
- ## 📊 Projetos de análise de dados:
-- [Projeto 1](https://github.com/ThaylaOliveira/customer-insights-powerbi): Dashboard em Power BI para avaliar o desempenho e padrões de comportamento dos clientes de uma empresa de vendas online.
-- [Projeto 2](https://github.com/ThaylaOliveira/olist-data-exploration-sql): Análise exploratória da base pública do Olist utilizando SQL no Google BigQuery.
-- [Projeto 3](https://github.com/ThaylaOliveira/-planejamento-orcamentario-pessoal-bi-case): Planejamento Orçamentário de Pessoal, análise de custos e criação de dashboard analítico com Power BI.
-- [Projeto 4](https://github.com/ThaylaOliveira/azure-data-pipeline-project): Análise e Transformação de Dados com Azure Data Factory e Data Flow
-
- ## 💻 Projetos de Machine Learning:
-- [Projeto 1](https://github.com/ThaylaOliveira/house_boston_linear_regression): Modelo de regressão linear para estimar a taxa média de ocupação das casas pelos proprietários de Boston.
-- [Projeto 2](https://github.com/ThaylaOliveira/clients-cluster): Segmentação de Consumidores Para Campanhas Customizadas de Marketing
 
 ---
 
